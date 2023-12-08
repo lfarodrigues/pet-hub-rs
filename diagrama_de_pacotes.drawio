@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T01:18:18.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="GymURdh2P8GCmnAjgSsb" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T01:27:06.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="6igBtPEEwlGe5KYLvrT1" version="22.1.7" type="github">
   <diagram name="Página-1" id="DWjiMil6QpRck5204m84">
-    <mxGraphModel dx="2100" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,8 +52,8 @@
         <mxCell id="YxlcDERAqGYw6lF6efzc-31" value="Página de avaliação" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="800" y="265" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YxlcDERAqGYw6lF6efzc-16" value="Sistema dePagamento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1167.5" y="440" width="70" height="50" as="geometry" />
+        <mxCell id="YxlcDERAqGYw6lF6efzc-16" value="Sistema de Pagamento" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1167.5" y="440" width="82.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-36" value="Contratações" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="260" y="655" width="70" height="50" as="geometry" />
@@ -91,20 +91,11 @@
         <mxCell id="YxlcDERAqGYw6lF6efzc-50" value="Operações" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="210" y="790" width="820" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="YxlcDERAqGYw6lF6efzc-24" value="Consulta de usuário" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="830" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YxlcDERAqGYw6lF6efzc-25" value="Consulta de Colaborador" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="840" width="70" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-54" value="Contratação deServiço" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="960" y="615" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-56" value="Sistema de Cadastro" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1167.5" y="600" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="YxlcDERAqGYw6lF6efzc-58" value="Consulta de Serviço" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="840" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-59" value="&lt;div&gt;Gerência&lt;/div&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1340" y="520" width="290" height="290" as="geometry" />
@@ -135,6 +126,21 @@
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.475;entryY=0.172;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YxlcDERAqGYw6lF6efzc-65" target="YxlcDERAqGYw6lF6efzc-67">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YxlcDERAqGYw6lF6efzc-75" value="Consultas" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="810" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YxlcDERAqGYw6lF6efzc-24" value="Consulta de usuário" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=10;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="850" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxlcDERAqGYw6lF6efzc-58" value="Consulta de Serviço" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=36;tabHeight=10;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="344" y="850" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxlcDERAqGYw6lF6efzc-25" value="Consulta de Colaborador" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="850" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YxlcDERAqGYw6lF6efzc-77" value="Motor de busca" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1020" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
