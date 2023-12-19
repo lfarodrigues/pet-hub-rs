@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T02:28:15.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="biuDWfTTyijJXgWpC9fF" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T02:29:27.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="RpEruAMFCI1beyqpr_lF" version="22.1.11" type="github">
   <diagram name="Página-1" id="DWjiMil6QpRck5204m84">
     <mxGraphModel dx="1818" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8-D-jwilKqf4BBGD9wGk-26" value="Aplicação" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="485" y="50" width="320" height="135" as="geometry" />
+          <mxGeometry x="477.5" y="150" width="320" height="135" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-18" value="Sistemas" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="770" y="810" width="997.5" height="180" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="550" y="495" width="210" height="235" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-13" value="Processamento de requisições" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;align=center;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="510" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="502.5" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YxlcDERAqGYw6lF6efzc-20" value="Autenticação de Usuário" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="892.5" y="890" width="80" height="60" as="geometry" />
@@ -194,11 +194,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8-D-jwilKqf4BBGD9wGk-19" value="Processamento de respostas" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="657" y="105" width="123" height="60" as="geometry" />
+          <mxGeometry x="649.5" y="205" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8-D-jwilKqf4BBGD9wGk-25" value="&amp;lt;&amp;lt;access&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" parent="1" target="8-D-jwilKqf4BBGD9wGk-28" edge="1">
           <mxGeometry x="-0.0072" width="160" relative="1" as="geometry">
-            <mxPoint x="630" y="190" as="sourcePoint" />
+            <mxPoint x="630" y="280" as="sourcePoint" />
             <mxPoint x="788" y="380" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
